@@ -3,7 +3,7 @@ package recursionprograms;
 public class SumOfArrayOfElementsUsingRecursion {
 
 	public static void main(String []args){
-        int[] A = {4, 2,10,21, 3,44,34,56,77};
+        int[] A = {4, 2,10,21, 3,44,34,56,77,51};
         
         divisble(A,A.length);
        
